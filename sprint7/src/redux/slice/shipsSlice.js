@@ -27,7 +27,9 @@ const shipsSlice = createSlice({
      builder.addCase(fetchShips.fulfilled, (state, action) => {
       console.log("Action Payload:", action.payload);
       state.isLoading = false;
-      state.data = action.payload;
+      state.data = action.payload.results;
+      console.log("this is ittttt:", state.data);
+
      })
 
      builder.addCase(fetchShips.rejected, (state, action) => {
