@@ -1,0 +1,123 @@
+{
+  "users": [
+    {
+      "email": "ram@mail.com",
+      "password": "$2a$10$QQL03wlinkMM2dPP5AIUgeuf6/lED4d/lAUb6KqXaT5dHouvnYBeC",
+      "username": "ram",
+      "id": 1
+    },
+    {
+      "email": "ram1@mail.com",
+      "password": "$2a$10$zoFI1zBUOcClwr/Hw/pyBOKGqwfuVN7I3TPPEo0S.3I1.yX6YGdm.",
+      "username": "ram",
+      "id": 2
+    },
+    {
+      "email": "ramram@ram.com",
+      "password": "$2a$10$7qieGtGYzhz4p3aU/xGAbe/2R14FKWA02VSWv0OyUBeB/krrjzWGK",
+      "username": "Ram",
+      "id": 3
+    },
+    {
+      "email": "mar@mar",
+      "password": "$2a$10$mX4oUifmq3HtV0tWzm9NXOXOLboMvI9FzBtkq7oR3PBsrKujjs6SK",
+      "username": "Mar",
+      "id": 4
+    },
+    {
+      "email": "ram3@mail.com",
+      "password": "$2a$10$3BRJdupOWDPUvmWbpFDwuegQ/knw6Bp4M14/UQOoqWfZ9hofHbQQy",
+      "username": "Ram",
+      "id": 5
+    },
+    {
+      "email": "ram4@mail.com",
+      "password": "$2a$10$SQk6G9BRbQDnfgnKTXfngOguOt2MihVy3T56SEiZil3sBfSQKIqmO",
+      "username": "Ram",
+      "id": 6
+    },
+    {
+      "email": "ram5@mail.com",
+      "password": "$2a$10$2mU0eqS7svdGM.1KxuFzuuZNd.bQ6is4Wyb5Q3PhVahaNrBOgt0hm",
+      "username": "Ram",
+      "id": 7
+    },
+    {
+      "email": "ram6@mail.com",
+      "password": "$2a$10$R0AbqIlF5kL5X5fj05w4puYmvHqiDaTMcZ6qvx3Rcb3HpFpIhyP0C",
+      "username": "Ram",
+      "id": 8
+    },
+    {
+      "email": "rwerw@fsd",
+      "password": "$2a$10$BclIh9DgDwN76IPacX2X8O634y21IgpI9CfDxozma0wAPf9es5YDG",
+      "username": "we",
+      "id": 9
+    },
+    {
+      "email": "rwer3w@fsd",
+      "password": "$2a$10$jVm.PqpCsDi/DHkI4Z/89OKtMSH7yK80pHD9yJssJD80GFrVNwUse",
+      "username": "wee",
+      "id": 10
+    },
+    {
+      "email": "rwe3r3w@fsd",
+      "password": "$2a$10$ADHHyBgLpeQQ5RBrtxfsP.twNWsb2qjnfkw7LB6Nhdn0pzBWejzyq",
+      "username": "weeed",
+      "id": 11
+    },
+    {
+      "email": "rwe3r3qw@fsd",
+      "password": "$2a$10$CT2FmMPnavc5.6AfDfr3ieSRyUh0/ExnYl2kL/2a.GzQewBqqj8G2",
+      "username": "weeed",
+      "id": 12
+    },
+    {
+      "email": "rawe3r3qw@fsd",
+      "password": "$2a$10$y9juQyS0bOsDmpbnMkBfAObeu64jxE3UhZjmL.otLuMvI9y9iRFNG",
+      "username": "weeed",
+      "id": 13
+    },
+    {
+      "email": "agfds@protonmail.com",
+      "password": "$2a$10$12uLNGS7WLK/ViIOc2fIu.sfaNDf3zMb5R7GncEOEsti.z7pMEHFO",
+      "username": "gfdsadfv",
+      "id": 14
+    },
+    {
+      "email": "ramchan@io.net",
+      "password": "$2a$10$W/82hS0MYVlxaMpp3WYFGuoCRnICfsu0n8.PcfKKrdxABa6onPbfG",
+      "username": "Ramona",
+      "id": 15
+    },
+    {
+      "email": "ram44@mail.com",
+      "password": "$2a$10$mpzcSs8cfZIQaMdAF6rpkOX.cscHfgGpzQIAiyN6v6PV1TiqROSlS",
+      "username": "Ram",
+      "id": 16
+    },
+    {
+      "email": "ram1@gmail.com",
+      "password": "$2a$10$wa78E2jsToye77ndt2olKuWTGarj1BW4B3Vs4Ao.rHIwZ5gOnPsMi",
+      "username": "RAMM",
+      "id": 17
+    }
+  ],
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}

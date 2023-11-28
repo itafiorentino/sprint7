@@ -28,7 +28,6 @@ const shipsSlice = createSlice({
       console.log("Action Payload:", action.payload);
       state.isLoading = false;
       state.data = action.payload.results;
-      console.log("this is ittttt:", state.data);
 
      })
 
